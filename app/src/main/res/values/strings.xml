@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_welcome_message">Hi，一起来玩呀</string>
+    <string name="login_digits">0123456789qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM</string>
+    <string name="login_input_account">请输入账号</string>
+    <string name="login_input_password">请输入密码</string>
+    <string name="login_login">登录</string>
+    <string name="login_registered">注册</string>
+    <string name="login_account_limit">登入账号应为4&#8211;20位字母或数字</string>
+    <string name="login_password_limit">账户密码应为6&#8211;20位</string>
+    <string name="login_input_account_number_non">请输入账号和密码</string>
+    <string name="get">GET</string>
+    <string name="post">POST</string>
+</resources>
